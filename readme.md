@@ -18,7 +18,7 @@ Criar um sistema de envio de mensagens simuladas (E-mail, SMS e WhatsApp) utiliz
 ##  Estrutura do Projeto
 
 ```
-design-patterns-mensagens/
+java-design-patterns-notification/
 ├── src/
 │   ├── Main.java
 │   ├── NotificationStrategy.java
